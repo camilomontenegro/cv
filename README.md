@@ -3,11 +3,11 @@
 # cv
 **My Curriculum Vitae in an App**
 
-This time I wanted to make an experiment in order to increase my skills in react-native, because is a new technology for me, and I think that only practice makes a master.
+This time I wanted to make an experiment in order to increase my skills in react-native, because is a new technology for me, and I think that only practice makes perfect.
 
-I don't know if there is another similar project. I guess, but I don't really mind about it, because my target is to learn, not to make the best of the best application in the world.
+I don't know if there is another similar project. I guess, but I don't really mind about it, because my target is to learn, not to make the best application in the world.
 
-So, I thought that it could be fun take my CV, and make it like an App, not just a pretty PDF.
+So, I thought that it could be fun take my CV, and turn it into an App, not just a pretty PDF.
 
 I decided to make a little project, but using almost the same tools that I use to handle in my regular projects.
 
@@ -15,7 +15,7 @@ According to this target, I need first of all, what I want, and then I draw the 
 
 ![enter image description here](https://lh3.googleusercontent.com/9yGx6QXLr8diwhmV4VZndMq9NibvwM8IoTgtPe6-UjZ0tfq1fkcqlNvz75fbExj7k7Rsdh7mlL0M "Main idea schema")
 
-I decided to put the basics: A little profile, some education, my favorite skills, and of course, some experience.
+I decided to put the basics: A little profile, some education, my favorite skills, and of course, my experience.
 
 Then, I made a piece of conceptual application architecture (I'm not an architect, but I like pretending to be one) to have a clearer panorama about the final result, so, I got this:
 
@@ -27,15 +27,15 @@ So, at this point, I got enough information to make some mockups for every inter
 
 5 mockups, each one for every module that I defined at the beginning of this article.
 
-Now I need to create some of the activities that I'll do.
+Now I need to create some of the activities that I'm going to do.
 
 This part is a little complex, so, I'm going to simplify the process. I'm gonna make a basic baseline (without dates) with some activities per interface, and I'm gonna put them on Trello, which is a pretty good tool for get a Kanban board.
 
-I made an structure to define the project better. I know, is an small project, maybe doesn't require so much, but, I'd rather this way to avoid noise in my execution.
+I made an structure to define the project better. I know, is a small project, maybe doesn't require so much, but, I'd rather this way to avoid noise in my execution.
 
 ![enter image description here](https://lh3.googleusercontent.com/tlLbnJoiji_F3-b0PEZDDW3WV2P_oDmZTc5-5t3L23LpA1lsWXkB0nd0vwcB5uQj7AG6nHpFqZ7H=s428 "General baseline")
 
-Through the above list, I am trying to define every stage on my project. Some of them are done, another are on the way, and the rest is waiting.
+Through the above list, I am trying to define every stage of my project. Some of them are done, another are on the way, and the rest is waiting.
 
 In less than 140 characters, is just a little document that explains that I'm making an application with client side, and server side.
 
